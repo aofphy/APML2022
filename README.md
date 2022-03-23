@@ -2,7 +2,7 @@
 
 
 ## EgeaML
-The book provides a book-specific module, called **egeaML**. <br>
+Course-specific module, called **egeaML**. <br>
 Please, clone on your local machine this repo, as follows:
 ```bash
 git clone https://github.com/aofphy/APML2022.git
